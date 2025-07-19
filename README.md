@@ -154,3 +154,6 @@ DAX for Calculations
 Data Modelling for KPI Relationships
 
 Custom Visualizations
+
+## Links :
+[Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiY2NhZmEyMjgtZjUwMC00MDc0LWE5ZGMtNTllNTY2MzNhMjRiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
